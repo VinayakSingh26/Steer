@@ -1,0 +1,5 @@
+cd Desktop/Behavioural Cloning
+
+activate myenviron
+
+python drive.py
